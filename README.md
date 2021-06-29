@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Enes
-- 👀 I’m interested in Animation 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 💞️ An idiot student and who learns to craft animation.
 
 <!---
 tubarvex/tubarvex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
