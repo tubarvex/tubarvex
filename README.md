@@ -1,4 +1,4 @@
-- 💞️ An idiot student and who learns to craft animation.
+- 💞️ An dumb student and who learns to craft animation.
 
 <!---
 tubarvex/tubarvex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
